@@ -1,0 +1,12 @@
+The standard structure of a HTML code is as follows:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset = "UTF-8">
+<title> The title </title>
+</head>
+<body>
+<h1> My first heading </h1>
+<p> My first paragraph </p>
+</body>
+</html>
