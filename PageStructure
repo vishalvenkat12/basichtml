@@ -10,3 +10,6 @@ The standard structure of a HTML code is as follows:
 <p> My first paragraph </p>
 </body>
 </html>
+IMPORTANT : Everything inside a HTML file must have a starting and ending tag.
+
+This is the final update of this page.
